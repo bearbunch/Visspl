@@ -1,0 +1,1 @@
+function doGet(e){return ContentService.createTextOutput('API Ready');}
